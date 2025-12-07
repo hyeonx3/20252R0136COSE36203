@@ -9,3 +9,6 @@ numpy       1.26.4
 torch       2.5.1   
 lightgbm    4.6.0   
 catboost    1.2.8   
+
+---
+
