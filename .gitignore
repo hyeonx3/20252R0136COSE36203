@@ -4,7 +4,6 @@
 
 # specify a folder with slash in the end
 # ignore all files in any directory named temp
-test/
-spotify_api/
 catboost_info/
 __pycache__/
+test/
