@@ -1,8 +1,7 @@
-# ignore all .class files
+# ignore all files in these types
 *.env
 *.zip
 
-# specify a folder with slash in the end
-# ignore all files in any directory named temp
+# ignore all files in this directory
 catboost_info/
 __pycache__/
